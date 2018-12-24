@@ -1,0 +1,2 @@
+This repository consists of my side projects of data visualization.  
+- [Project SF]() visualizes locations of restaurants in San Francisco. Users select from the scrolldown menu the kind of food they want, and relevant restaurant locations will be marked on an interactive map. 
